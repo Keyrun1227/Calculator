@@ -1,5 +1,5 @@
 {
-  "homepage":"http://keyrun1227.github.io/calculator",
+  "homepage": "http://keyrun1227.github.io/Calculator",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
